@@ -6,3 +6,13 @@ This enhancement technique only makes sense when **low value pixels are more** t
 r: input intensity levels <br/>
 s: output intensity levels <br/>
 c: constant <br/>
+
+## Input Image
+<img src="img.jpg"
+     alt="input image"
+     style="float: left; margin-right: 10px;" />
+     
+## Outut Image
+<img src="output.jpg"
+     alt="output image"
+     style="float: left; margin-right: 10px;" />
