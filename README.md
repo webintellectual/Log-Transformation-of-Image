@@ -10,9 +10,9 @@ c: constant <br/>
 ## Input Image
 <img src="img.jpg"
      alt="input image"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 5px;" />
      
 ## Outut Image
 <img src="output.jpg"
      alt="output image"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 5px;" />
